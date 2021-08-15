@@ -1,7 +1,7 @@
 const lex = require("aoi.js")
 var fs = require('fs');
 const bot = new lex.Bot({
-  token: "ODU2NDY3OTAzOTkzNzQxMzMz.YNBd5A.b-Ul0wwQh_o4ssxs4k2H9_dZFi4",
+  token: "ODc2MjgwNTU2NTY3MDE5NTgx.YRhx3Q.B2kOfyNbK7IaMYgLoB6b_2M4Al4",
   prefix: ["$getServerVar[prefix]","*"],
   mobile: false,
   fetchInvites: true
